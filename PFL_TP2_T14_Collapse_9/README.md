@@ -1,4 +1,4 @@
-#Collapse
+# Collapse
 
 To test this game follow this steps:
 
